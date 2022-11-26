@@ -1,8 +1,15 @@
-- 👋 Cześć to ja Antonq!
-- 👀 Lubię programować
-- 🌱 Obecnie próbuję swoich sił z botem na Discorda
- - **Zapraszam do dodawania tego bota!**
- - https://discord.com/api/oauth2/authorize?client_id=962794277912608868&permissions=8&scope=bot%20applications.commands
+- 👋 Hi! My name is Antonq!
+- Let me introduce myself:
+
+ - - -
+
+- Im a young programmer
+- I love JavaScript especially Node.js
+- Im learning bukkit api in java
+- And i think thats all!
+
+**If you want to contact me here is my Discord: `Antonq#6376`**
+
 
 <!---
 AntonqMC/AntonqMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
