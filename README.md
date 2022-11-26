@@ -6,6 +6,7 @@
 - Im a young programmer
 - I love JavaScript especially Node.js
 - Im learning bukkit api in java
+- Im from Poland
 - And i think thats all!
 
 **If you want to contact me here is my Discord: `Antonq#6376`**
