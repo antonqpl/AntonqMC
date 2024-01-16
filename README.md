@@ -1,4 +1,4 @@
 | hello 🇵🇱
-| contact: discord - `groszik|
+| contact: discord - `groszik`
 
 | https://grosik.ovh/
