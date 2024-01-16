@@ -1,6 +1,4 @@
-| hi 👋🏻
-| nationality: poland
+| hello 🇵🇱
+| contact: discord - `groszik|
 
-| if you want something dm me on discord: `antonq.pl`
-
-| https://antonq.carrd.co/
+| https://grosik.ovh/
