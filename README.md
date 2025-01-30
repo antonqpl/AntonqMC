@@ -2,4 +2,4 @@
 
 | contact: discord - `groszik`
 
-| https://grosik.ovh/
+| https://grosik.dev/
